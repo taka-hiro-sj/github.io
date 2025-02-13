@@ -9,8 +9,8 @@ h1 {
 }
 img.profile {
     border-radius: 50%;  /* 丸いプロフィール画像 */
-    max width: 200px;  /* 画像サイズ調整 */
-    max height: 200px;
+    max-width: 200px;  /* 画像サイズ調整 */
+    max-height: 200px;
     width: auto;
     height: auto;
     object-fit: cover;  /* 画像の比率を維持してトリミング */
