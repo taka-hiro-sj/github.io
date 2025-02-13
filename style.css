@@ -12,5 +12,5 @@ img.profile {
     width: 200px;  /* 画像サイズ調整 */
     height: 200px;
     object-fit: cover;  /* 画像の比率を維持してトリミング */
-    border: 3px solid #007bff; /* 枠線を追加 */
+    border: 4px solid #007bff; /* 枠線を太く */
 }
