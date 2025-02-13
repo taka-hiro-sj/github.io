@@ -23,3 +23,8 @@ img.profile {
     object-fit: cover;
     border: 4px solid #007bff;
 }
+.specialties {
+    text-align: center;  /* 中央揃え */
+    font-size: 18px; /* 文字サイズを調整（必要なら変更） */
+    margin-top: 10px; /* 画像との間隔を調整 */
+}
